@@ -1,2 +1,3 @@
 # editorconfig
-editorconfig example
+
+Common editorconfig configuration used in LeanCloud.
